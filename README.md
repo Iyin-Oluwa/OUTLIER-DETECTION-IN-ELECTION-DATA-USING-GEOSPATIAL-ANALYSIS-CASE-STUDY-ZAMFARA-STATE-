@@ -1,0 +1,2 @@
+# OUTLIER-DETECTION-IN-ELECTION-DATA-USING-GEOSPATIAL-ANALYSIS-CASE-STUDY-ZAMFARA-STATE-
+This report uses geospatial data to analyze political party support across polling units in Zamfara State, pinpointing where voter preferences for APC, LP, PDP, and NNPP diverge significantly from neighboring areas. It focuses on outlier scores to reveal unique socio-political influences on local voting patterns and their implications.
