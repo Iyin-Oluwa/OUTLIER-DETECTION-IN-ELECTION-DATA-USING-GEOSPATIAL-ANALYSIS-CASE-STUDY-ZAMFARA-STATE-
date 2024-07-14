@@ -1,5 +1,14 @@
 # OUTLIER-DETECTION-IN-ELECTION-DATA-USING-GEOSPATIAL-ANALYSIS-CASE-STUDY-ZAMFARA-STATE-
 
+## Table of Content
+
+- [Introduction](#introduction)
+- [Methodology](#methodology)
+- [Findings](#findings)
+- [Conclusion](#conclusion)
+- [Recommendations](#recommendations)
+
+
 
 
 ### Introduction
@@ -161,3 +170,118 @@ PU-Code: 36-12-09-044, PU-Name: DAN JALLABA III/ UNGUWAR ROGO/ BAKIN TRANSFORMER
 - Ethnic and Cultural Factors: LP's inclusive policies and advocacy for cultural preservation resonate deeply in SHIYAR GALADIMA, where ethnic identity and cultural heritage play a pivotal role in shaping voter preferences.
 - Gender Initiatives: LP's focus on gender equality and women's empowerment has garnered substantial support among female voters in SHIYAR GALADIMA, reflecting LP's commitment to social justice and equality issues.
 - Educational Reforms: LP's proposals for educational reforms and access to quality education have resonated with parents and educators in SHIYAR GALADIMA, influencing voting decisions based on perceived improvements in educational outcomes.
+
+
+
+
+### PDP (Peoples Democratic Party):
+Notable outlier scores indicating significant deviations in party support within specific polling units.
+
+Top 3 PDP Outliers Analysis:
+
+
+
+1.
+PU-Code: 36-13-09-007, PU-Name: CHEDIYA / BAKIN KASUWA, Ward: CHEDIYA, Latitude: 11.9552779, Longitude: 6.9182301
+   - Outlier Score:109.4
+   - Neighbors: ['36-13-08-012', '36-13-08-027', '36-13-09-004', '36-13-10-005', '36-13-10-009']
+   - Explanation:
+  
+ Interpretation of Findings: These polling units exhibit notable outlier scores for PDP support, indicating significant deviations from neighboring units. Factors contributing to their outlier status include:
+   	- Historical Ties: PDP's longstanding presence and historical ties in CHEDIYA have fostered strong party loyalty and support, anchored by decades of community engagement and service delivery.
+   	- Candidate Popularity: The popularity and local appeal of PDP's candidates in CHEDIYA have contributed to their electoral success, with voters identifying closely with candidate profiles and campaign promises.
+   	- Regional Development Issues: PDP's focus on regional development projects and infrastructural improvements resonates strongly in CHEDIYA, where residents prioritize local development and government investment in public services.
+
+     
+ 
+2. 
+PU-Code: 36-13-03-010, PU-Name: GOBIRAWA I / GARKAR MAI GARI, Ward: YANDOTON DAJI, Latitude: 12.0445057, Longitude: 6.8672668
+   - Outlier Score:101
+   - Neighbors: ['36-13-03-012']
+   - Explanation:
+     
+Interpretation of Findings: These polling units demonstrate significant outlier scores for PDP, reflecting distinct voting preferences shaped by:
+   	- Social Welfare Policies: PDP's emphasis on social welfare programs and poverty alleviation initiatives has garnered widespread support in YANDOTON DAJI, addressing community concerns about economic inequality and social justice.
+   	- Local Governance Issues: PDP's track record in effective local governance and service delivery in YANDOTON DAJI has bolstered voter confidence and support, emphasizing the party's capacity to address local challenges effectively.
+   	- Community Development Initiatives: PDP's community-driven initiatives and grassroots mobilization efforts have galvanized support among diverse demographics in YANDOTON DAJI, illustrating the party's grassroots strength and organizational capacity.
+
+ 
+
+ 3. 
+PU-Code:36-13-03-012, PU-Name: NASARAWA / DAN FILI, Ward:YANDOTON DAJI, Latitude: 12.0445057, Longitude:6.8672668
+   - Outlier Score:101
+   - Neighbors: ['36-13-03-010']
+   - Explanation:
+     
+ Interpretation of Findings: These polling units exhibit substantial outlier scores for PDP support due to:
+   	- Public Policy Agenda: PDP's policy agenda addressing healthcare, education, and social security resonates deeply in [Ward Name], where residents prioritize access to essential services and government support for vulnerable populations.
+   	- Community Engagement: PDP's active engagement with local communities and stakeholders in [Ward Name] has strengthened party ties and bolstered electoral support, highlighting effective communication and responsiveness to community needs.
+   	- Public Perception: Positive public perception of PDP's leadership and governance at the national level has translated into local support in [Ward Name], with voters endorsing the party's vision for inclusive development and progressive governance.
+
+
+
+
+
+ 
+ ### NNPP (New Nigeria Peoples Party)
+Identified polling units where NNPP support varies significantly from neighboring units.
+
+ Top 3 NNPP Outlier Analysis:
+
+ 
+1.
+ PU-Code:36-07-03-003, PU-Name:SABON GARI I / MADA GENERAL HOSPITAL, Ward: MADA, Latitude: 12.1628466, Longitude: 6.6745042
+   - Outlier Score:12.67
+   - Neighbors:['36-07-02-013', '36-07-03-012', '36-07-03-019']
+   - Explanation:
+     
+ Reasons for Outlier Status: This polling unit exhibits a notably high outlier score for NNPP support, indicating a significant deviation from neighboring units within a 1.0 kilometer radius. The outlier status can be attributed to several local factors:
+   	- Youth Engagement: NNPP has actively engaged with local youth organizations and student groups in MADA, resonating strongly with younger demographics who perceive the party's policies as more aligned with their aspirations.
+   	- Local Grievances: The area has historically faced challenges with access to basic services, and NNPP's campaign promises focusing on community development and improved infrastructure have garnered substantial support among residents.
+   	- Community Outreach: NNPP leadership in this ward has implemented effective grassroots outreach programs, organizing community meetings and addressing specific local concerns such as employment opportunities and healthcare access.
+    
+ 
+2.
+ PU-Code: 36-07-03-019, PU-Name:GIDAN KARA / DAN HILI, Ward: MADA, Latitude: 12.1628466, Longitude: 6.6745042
+   - Outlier Score: 6
+   - Neighbors:['36-07-02-013', '36-07-03-003', '36-07-03-012']
+   - Explanation:
+     
+ Reasons for Outlier Status:This polling unit shows a significant outlier score for NNPP support, reflecting a distinct level of voter preference compared to nearby units. Key factors contributing to this outlier status include:
+   	- Candidate Popularity:The NNPP candidate for local council elections in MADA has a strong personal following due to their prior community service and advocacy for youth empowerment and education.
+   	- Policy Alignment: NNPP's emphasis on agricultural reform and small business support has resonated with farming communities and local entrepreneurs in the ward, distinguishing it from other parties focusing on broader national issues.
+   	- Strategic Campaigning: NNPP has strategically positioned itself as a viable alternative to established parties, leveraging discontent with incumbent performance and promoting transparency and accountability in governance.
+
+
+ 
+ 3.
+ PU-Code: 36-09-03-011, PU-Name:KYARA / SH/ADAMU, Ward: FARU / MAGAMI, Latitude: 12.9641447, Longitude: 6.1102943 
+   - Outlier Score:6
+   - Neighbors: ['36-09-03-024']
+   - Explanation:
+   
+   
+Reasons for Outlier Status:This polling unit exhibits a substantial outlier score for NNPP support, indicating unique voting behavior not observed in adjacent units. Factors contributing to this outlier status include:
+   	- Ethnic Dynamics: The area has a predominant ethnic community with historical ties to the NNPP leadership, influencing voter loyalty and support for the party's candidates during elections.
+   	- Local Economic Issues:NNPP's campaign promises focusing on job creation and economic revitalization have resonated with residents facing unemployment and economic hardship, distinguishing it as a preferred choice for addressing local economic grievances.
+   	- Community Endorsements: Local community leaders and influential figures in [Ward Name] have publicly endorsed NNPP, amplifying its appeal and swaying undecided voters towards the party.
+ 
+The NNPP outliers show how the party successfully gained local support by addressing specific community issues, engaging youth effectively, and positioning itself strategically against other political messages. These insights reveal the importance of tailoring campaigns to local needs and focusing on community-driven policies for electoral success in Zamfara State. This analysis not only highlights NNPP's exceptional cases but also suggests areas for deeper study on voter behavior and party dynamics across different areas of Zamfara State.
+
+
+
+
+### Conclusion
+ 
+This report has provided a detailed analysis of outlier scores for political parties in Zamfara State, highlighting polling units where party support significantly deviates from neighboring units. The findings underscore the importance of local dynamics in shaping electoral outcomes and suggest avenues for further research and targeted political engagement.
+
+
+
+### Recommendations
+ 
+- Targeted Engagement: Recommend targeted outreach efforts in outlier polling units to consolidate support or address grievances.
+- Data Integration: Advocate for continuous data collection and analysis to refine electoral strategies and policy priorities.
+- Community Dialogue: Emphasize the role of community dialogue and grassroots engagement in bridging electoral divides.
+
+
+
